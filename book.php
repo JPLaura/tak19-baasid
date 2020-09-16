@@ -51,7 +51,7 @@ $book = $stmt->fetch();
 
     <div style="margin-top: 2em;">
         <span><a href="editform.php">muuda</a></span>
-        <span><a href="delete.php">kustuta</a></span>
+        <span><a href="delete.php? id=5">kustuta</a></span>
     </div>
 
 </body>
